@@ -30,9 +30,9 @@ Neste perfil, compartilho minha evolução por meio de projetos documentados, c�
 
 ## Projetos
 
-Estou organizando meus repositórios para apresentar estudos de caso completos, com problema, dados, método, avaliação e limitações. Você pode acompanhar o que já está publicado e as próximas atualizações em:
+Publiquei uma trilha de dez projetos em progressão, do cuidado com os dados à construção e ao acompanhamento offline de modelos. Em cada relatório, conto em primeira pessoa e linguagem simples as dificuldades, os achados, o que aprendi e como essa etapa me levou à próxima. Também incluo código reproduzível, fontes e limitações.
 
-**[Ver repositórios públicos de Eliasfapc007 →](https://github.com/Eliasfapc007?tab=repositories)**
+**[Acessar meu portfólio de dez projetos →](https://github.com/Eliasfapc007/portfolio-ciencia-de-dados)**
 
 ## Como quero trabalhar
 
