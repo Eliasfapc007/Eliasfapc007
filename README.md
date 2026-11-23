@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Elias%20Carvalho&fontSize=42&fontColor=FFFFFF&desc=Ciencia%20de%20Dados%20%7C%20Machine%20Learning%20%7C%20Analytics&descSize=16&descAlignY=72" alt="Banner: Elias Carvalho — Ciência de Dados, Machine Learning e Analytics" />
 
+<h1>Elias Carvalho</h1>
+
 ### Cientista de Dados | Em evolução para especialista
 
 **Dados bem analisados. Decisões mais confiáveis. Soluções reproduzíveis.**
